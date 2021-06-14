@@ -8,8 +8,9 @@ Through the project task, an information system should be created in the form of
 * Screen structure
 * Navigation
 * Restriction of the right of access to information in accordance with the authorizations of the users
-#### An application should have at least two user levels
+#### An application will have three user levels
 * Anonymous
+* User
 * Administrator
  
 Description: The user is identified by a login form by entering a username and password
