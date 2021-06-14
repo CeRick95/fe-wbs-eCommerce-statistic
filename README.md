@@ -11,7 +11,8 @@ Through the project task, an information system should be created in the form of
 #### An application should have at least two user levels
 * Anonymous
 * Administrator
-/n Description: The user is identified by a login form by entering a username and password
+ 
+Description: The user is identified by a login form by entering a username and password
 Data collection
 Manual entry via web forms and/or
 Automated data entry available over the network or the Internet
